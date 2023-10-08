@@ -19,13 +19,13 @@ const AboutMe = () => {
                     <S.JobFunction>Professor de Inglês</S.JobFunction>
                     <S.WhoIs>
                         Lorem Ipsum is simply dummy text of the printing and typesetting
-                        industry. Lorem Ipsum has been the industry's standard dummy text
+                        industry. Lorem Ipsum has been the industry&apos;s standard dummy text
                         ever since the 1500s, when an unknown printer took a galley of type
                         and scrambled it to make a type specimen book. It has survived not
                         only five centuries, but also the leap into electronic typesetting,
                         remaining essentially unchanged.
                     </S.WhoIs>
-                    <S.WhoIs>"Com grandes poderes vem grandes responsabilidades. Sem dó nem piedade! Rapadura é doce mas né mole não."</S.WhoIs>
+                    <S.WhoIs>&quot;Com grandes poderes vem grandes responsabilidades. Sem dó nem piedade! Rapadura é doce mas né mole não.;</S.WhoIs>
                     <S.SocialMedia>
                         <S.MediaIcon src={instagramIcon} alt="instagram" width={30} height={30} />
                         <S.MediaIcon src={linkedinIcon} alt="linkedin" width={30} height={30}/>
