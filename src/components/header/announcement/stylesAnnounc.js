@@ -18,10 +18,15 @@ export const SliderItem = styled.div`
         color: #ff345c;
         font-weight: 900;
         font-size: 50px;
-        letter-spacing: 5px;
+        letter-spacing: 9px;
 
+        @media(max-width: 768px){
+            letter-spacing: 5px;
+            font-size: 45px;
+        }
         @media(max-width: 375px){
-            font-size: 35px;
+            letter-spacing: 5px;
+            font-size: 30px;
         }
     }
 
@@ -31,8 +36,11 @@ export const SliderItem = styled.div`
         font-size: 60px;
         padding: 30px;
 
+        @media(max-width: 768px){
+            font-size: 50px;
+        }
         @media(max-width: 375px){
-            font-size: 45px;
+            font-size: 40px;
         }
     }
 `;

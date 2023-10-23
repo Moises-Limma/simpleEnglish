@@ -27,6 +27,6 @@ export const DataReview = [
         photo: "assets/pexels-4.jpg",
         name: "Ana Claudia",
         text: "Pense num curso incrível! Comecei...",
-        link: "https: //www.google.com/maps/reviews/@-12.7018017,-38.3225986,17z/data=!3m1!4b1!4m5!14m4!1m3!1m2!1s108041437091261610147!2s0x0:0x5229449c5eec2b97?hl=en-BR&entry=ttu",
+        link: "https://www.google.com/maps/reviews/@-12.7018017,-38.3225986,17z/data=!3m1!4b1!4m5!14m4!1m3!1m2!1s108041437091261610147!2s0x0:0x5229449c5eec2b97?hl=en-BR&entry=ttu",
     },
 ];
